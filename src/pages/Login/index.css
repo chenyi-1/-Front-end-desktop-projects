@@ -1,0 +1,32 @@
+
+.forms{
+    width: 200px;
+    height: 170px;
+    line-height: 69px;
+    display: flex;
+    flex-wrap:wrap;
+    margin: 0 auto;
+    margin-top: 20%;
+    box-shadow: 10px 10px 5px grey;
+    background-image:url(../../images/coffee.jpg);
+    background-repeat: no-repeat;
+}
+
+/* .forms{
+    margin: 0 auto;
+} */
+
+input{
+    margin: 0 auto;
+    margin-top: 10px;
+    height: 23px;
+}
+
+.user{
+    height: 10px;
+}
+
+button{
+    margin: 0 auto;
+    margin-top: 10px;
+}

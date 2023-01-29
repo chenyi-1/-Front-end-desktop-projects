@@ -1,0 +1,29 @@
+/* .home{
+    margin-top: 19%;
+} */
+
+.names{
+    text-align: center;
+}
+
+.navigation{
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    flex-wrap: none;
+    
+    
+}
+.navigation .aname{
+    text-align:center;
+    background-color: black;
+    color:aliceblue;
+    flex: 1;
+    text-decoration: none;
+}
+
+.aname:hover{
+    background-color: beige;
+    color:black;
+
+}
